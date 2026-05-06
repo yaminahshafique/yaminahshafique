@@ -1,6 +1,7 @@
 # Yaminah Shafique
 
 Hi! 🙋‍♀️
+
 I am an electrical engineer exploring deep learning and generative AI from first principles.
 
 📚 Currently learning about:
