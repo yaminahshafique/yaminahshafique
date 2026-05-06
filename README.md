@@ -1,16 +1,14 @@
-## Hi there 👋
+# Yaminah Shafique
 
-<!--
-**yaminahshafique/yaminahshafique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! 🙋‍♀️
+I am an electrical engineer exploring deep learning and generative AI from first principles.
 
-Here are some ideas to get you started:
+📚 Currently learning about:
+- transformers
+- language modeling
+- tokenization
+- efficient ML systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ Tech: Python, PyTorch, NumPy, Git, MATLAB
+
+> trying to understand models instead of treating them like black boxes
