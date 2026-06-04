@@ -10,6 +10,6 @@ I am an electrical engineer exploring deep learning and generative AI from first
 - tokenization
 - efficient ML systems
 
-⚙️ Tech: Python, PyTorch, NumPy, Git, MATLAB
+⚙️ Tech: Python, PyTorch, NumPy, Git, MATLAB, LangChain
 
-> trying to understand models instead of treating them like black boxes
+
