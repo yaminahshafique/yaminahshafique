@@ -1,15 +1,17 @@
-# Yaminah Shafique
+# Hi, I'm Yaminah Shafique 👋
 
-Hi! 🙋‍♀️
+I'm an Electrical Engineering graduate exploring deep learning and generative AI from first principles.
 
-I am an electrical engineer exploring deep learning and generative AI from first principles.
+🌱 **Currently learning**
+- Transformers
+- LLMs
+- AI Agents
+- MLOps
 
-📚 Currently learning about:
-- transformers
-- language modeling
-- tokenization
-- efficient ML systems
+🛠️ **Tech**
+Python • SQL • PyTorch • NumPy • LangChain • Git • MySQL
 
-⚙️ Tech: Python, PyTorch, NumPy, Git, MATLAB, LangChain
+📂 **Projects**
+- 🎮 Video Game Sales Analysis (SQL)
 
 
