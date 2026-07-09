@@ -11,7 +11,6 @@ I'm an Electrical Engineering graduate exploring deep learning and generative AI
 🛠️ **Tech**
 Python • SQL • PyTorch • NumPy • LangChain • Git • MySQL
 
-📂 **Projects**
-- 🎮 Video Game Sales Analysis (SQL)
+
 
 
